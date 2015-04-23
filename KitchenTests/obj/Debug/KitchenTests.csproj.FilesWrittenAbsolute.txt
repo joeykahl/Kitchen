@@ -1,0 +1,8 @@
+/Users/josephkahl/Projects/Kitchen/KitchenTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josephkahl/Projects/Kitchen/KitchenTests/bin/Debug/KitchenTests.dll.mdb
+/Users/josephkahl/Projects/Kitchen/KitchenTests/bin/Debug/KitchenTests.dll
+/Users/josephkahl/Projects/Kitchen/KitchenTests/obj/Debug/KitchenTests.dll
+/Users/josephkahl/Projects/Kitchen/KitchenTests/obj/Debug/KitchenTests.dll.mdb
+/Users/josephkahl/Projects/Kitchen/KitchenTests/bin/Debug/nunit.framework.dll
+/Users/josephkahl/Projects/Kitchen/KitchenTests/bin/Debug/Kitchen.exe
+/Users/josephkahl/Projects/Kitchen/KitchenTests/bin/Debug/Kitchen.exe.mdb

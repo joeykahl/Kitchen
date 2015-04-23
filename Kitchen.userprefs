@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Kitchen/Kitchen.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kitchen/KitchenEnumHelper.cs">
+    <Files>
+      <File FileName="Kitchen/Exceptions/InvalidDishTypeException.cs" Line="8" Column="16" />
+      <File FileName="Kitchen/Exceptions/InvalidOrderException.cs" Line="25" Column="1" />
+      <File FileName="Kitchen/KitchenEnumHelper.cs" Line="6" Column="77" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/josephkahl/Projects/Kitchen/Kitchen/Order.cs" line="78" column="1" />
+      <Breakpoint file="/Users/josephkahl/Projects/Kitchen/KitchenTests/KitchenTests.cs" line="67" column="5" />
+      <Breakpoint file="/Users/josephkahl/Projects/Kitchen/Kitchen/KitchenService.cs" line="52" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

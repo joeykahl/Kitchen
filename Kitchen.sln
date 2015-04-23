@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitchen", "Kitchen\Kitchen.csproj", "{FF48285F-EB34-4537-B72A-6735B4A38849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitchenTests", "KitchenTests\KitchenTests.csproj", "{F45F0C8B-E30F-449F-B640-FD30E1678DB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45F0C8B-E30F-449F-B640-FD30E1678DB8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F45F0C8B-E30F-449F-B640-FD30E1678DB8}.Debug|x86.Build.0 = Debug|Any CPU
+		{F45F0C8B-E30F-449F-B640-FD30E1678DB8}.Release|x86.ActiveCfg = Release|Any CPU
+		{F45F0C8B-E30F-449F-B640-FD30E1678DB8}.Release|x86.Build.0 = Release|Any CPU
+		{FF48285F-EB34-4537-B72A-6735B4A38849}.Debug|x86.ActiveCfg = Debug|x86
+		{FF48285F-EB34-4537-B72A-6735B4A38849}.Debug|x86.Build.0 = Debug|x86
+		{FF48285F-EB34-4537-B72A-6735B4A38849}.Release|x86.ActiveCfg = Release|x86
+		{FF48285F-EB34-4537-B72A-6735B4A38849}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

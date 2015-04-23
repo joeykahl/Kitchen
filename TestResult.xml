@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="/Users/josephkahl/Projects/Kitchen/KitchenTests/KitchenTests.csproj" total="9" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-04-22" time="22:10:21">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.1433" os-version="Unix 13.4.0.0" platform="Unix" cwd="/Users/josephkahl/Projects/Kitchen" machine-name="Joeys-MacBook-Pro-4.local" user="josephkahl" user-domain="Joeys-MacBook-Pro-4.local" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="/Users/josephkahl/Projects/Kitchen/KitchenTests/KitchenTests.csproj" executed="True" result="Success" success="True" time="0.042" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="/Users/josephkahl/Projects/Kitchen/KitchenTests/bin/Debug/KitchenTests.dll" executed="True" result="Success" success="True" time="0.035" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="KitchenTests" executed="True" result="Success" success="True" time="0.035" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="KitchenTests" executed="True" result="Success" success="True" time="0.035" asserts="0">
+                <results>
+                  <test-case name="KitchenTests.KitchenTests.TestCorrectInputMorning" executed="True" result="Success" success="True" time="0.015" asserts="1" />
+                  <test-case name="KitchenTests.KitchenTests.TestCorrectInputNight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="KitchenTests.KitchenTests.TestCorrectUseOfDuplicateMorningItem" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                  <test-case name="KitchenTests.KitchenTests.TestCorrectUseOfDuplicateNightItem" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="KitchenTests.KitchenTests.TestErrorWhenAskingForMultipleDishesWhenNotAllowed" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                  <test-case name="KitchenTests.KitchenTests.TestErrorWhenDesertAtBreakfast" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="KitchenTests.KitchenTests.TestErrorWhenInvalidDishTypeIsUsed" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="KitchenTests.KitchenTests.TestExit" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="KitchenTests.KitchenTests.TestOutputIsInCorrectOrder" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
